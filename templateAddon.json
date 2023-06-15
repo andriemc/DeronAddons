@@ -1,0 +1,7 @@
+{
+  "id": "template-addon",
+  "name": "Template Addon",
+  "type": "plugin",
+  "github": "https://github.com/andriejs/Deron",
+  "main": "main.js",
+}
